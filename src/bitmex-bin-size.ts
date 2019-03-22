@@ -5,8 +5,8 @@
 
 
 /**
- * TODO: document
+ * Type matching timeframes recognized by BitMEX exchange's API.
  */
-export function bitmexBinSize() {
-    // TODO: implement
-}
+type BinSize = '1m' | '5m' | '1h' | '1d'
+
+export default BinSize
