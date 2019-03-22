@@ -1,6 +1,6 @@
 {
   "name": "@strong-roots-capital/bitmex-bin-size",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Type definition for BitMEX&#39;s concept of bin size",
   "main": "dist/bitmex-bin-size.js",
   "types": "dist/bitmex-bin-size.d.ts",
